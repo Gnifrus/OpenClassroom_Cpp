@@ -5,5 +5,10 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
-    return 0;
+    cout << "\"" << endl;
+    cout << "\\" << endl;
+    cout << "retour a la ligne" << endl<< endl;
+    cout <<"coucou" << endl;
+
+        return 0;
 }
